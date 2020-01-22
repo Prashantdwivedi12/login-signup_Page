@@ -1,0 +1,215 @@
+ body {
+     margin: 0;
+     padding: 0;
+ }
+ 
+ h1 {
+     color: black;
+     text-align: center;
+     padding: 20px;
+     text-transform: uppercase;
+ }
+ 
+ h2 {
+     color: yellow;
+     text-align: center;
+ }
+ 
+ .header {
+     height: 100mvh;
+     background-position: center;
+     align-items: center;
+     display: flex;
+     justify-content: center;
+     background-repeat: no-repeat;
+     background-attachment: scroll;
+     padding: 180px;
+ }
+ 
+ .Search-field {
+     height: 10px;
+     padding: 10px;
+     border: 2px solid black;
+ }
+ 
+ .search-btn:hover {
+     background: yellow;
+     cursor: pointer;
+ }
+ 
+ .form-box {
+     background: rgba(0, 0, 0, 0.5);
+     padding: 20px;
+     text-align: center;
+ }
+ 
+ ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+ }
+ 
+ a:link,
+ a:visited {
+     display: block;
+     front-weight: bold;
+     color: black;
+     width: 202px;
+     text-align: center;
+     padding: 10px;
+     flex: 1px;
+     background: url("parking.jpeg");
+ }
+ 
+ li {
+     float: left;
+ }
+ 
+ h3 {
+     color: rgb(4, 43, 4);
+     text-align: center;
+     flex: 1px;
+     font-size: 40px;
+ }
+ 
+ p:hover {
+     color: black;
+ }
+ 
+ p1:hover {
+     color: black;
+ }
+ 
+ body {
+     background: url("./parking.jpeg");
+     background-size: cover;
+     background-position: center;
+     background-attachment: scroll;
+ }
+ 
+ span {
+     text-transform: uppercase;
+     color: solid black;
+ }
+ 
+ .login-box {
+     color: rgba(139, 139, 115, 0.5);
+     width: 320px;
+     height: 420px;
+     background: rgb(0, 1, 2);
+     top: 30%;
+     left: 40%;
+     position: absolute;
+     background-size: cover;
+     box-sizing: border-box;
+     padding: 10px 30px;
+     border: 5px solid white;
+ }
+ 
+ h6 {
+     margin: 0;
+     padding: 0 0 20px;
+     text-align: center;
+     font-size: 22px;
+ }
+ 
+ .login-box p {
+     padding: 0;
+     margin: 0;
+     front-weight: bold;
+ }
+ 
+ .login-box input {
+     width: 100%;
+     margin-bottom: 20px;
+     color: white;
+ }
+ 
+ .login-box input[type="text"],
+ input[type="password"] {
+     border: none;
+     border-bottom: 1px solid red;
+     background: transparent;
+     outline: none;
+     height: 41px;
+ }
+ 
+ .login-box input[type="Submit"] {
+     border: none;
+     outline: none;
+     height: 40px;
+     background: red;
+     color: black;
+     font-size: 18px;
+     border-radius: 20px;
+ }
+ 
+ h4 {
+     text-align: center;
+     padding: 10px;
+ }
+ 
+ h5 {
+     text-align: center;
+     padding: 10px;
+     text-decoration-style: solid;
+ }
+ 
+ .Box {
+     color: yellow;
+ }
+ 
+ .login-box input[type="Submit"]:hover {
+     cursor: pointer;
+     background: yellow;
+     color: blue;
+ }
+ 
+ .login-box a:hover {
+     color: brown;
+ }
+ 
+ table {
+     color: black;
+     width: 420px;
+     height: 420px;
+     background: rgb(24, 71, 112);
+     top: 30%;
+     left: 40%;
+     position: absolute;
+     background-size: cover;
+     box-sizing: border-box;
+     padding: 10px 30px;
+     text-align: center;
+     border-collapse: collapse;
+     font-family: Arial, Helvetica, sans-serif;
+     padding: 5px;
+     border: 5px solid black;
+ }
+ 
+ .ten {
+     color: black;
+     font-size: 40px;
+     text-align: center;
+     margin: 0;
+     padding: 10px;
+ }
+ 
+ .A {
+     color: black;
+     text-align: center;
+     flex: 1px;
+     font-size: 70px;
+ }
+ 
+ .area {
+     color: solid blACK;
+     font-size: 25px;
+     font: italic;
+     text-align: center;
+ }
+ 
+ .C :hover {
+     color: maroon;
+ }
